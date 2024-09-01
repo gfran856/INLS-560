@@ -1,0 +1,1 @@
+print('Well, ' + "it's a small " + 'world.\n\tnext line')
