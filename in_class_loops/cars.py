@@ -1,8 +1,7 @@
-cars = ['audi', 'bmw', 'subaru', 'toyota']
+items = ['Cashews', 'Peanuts', 'Pecans', 'Brazilian Nuts']
 
-for car in cars:
-    if car == 'bmw':
-        print(car.upper())
+for item in items:
+    if item == "item3":
+        print(item.title()) 
     else:
-        print(car.capitalize())
-# This is considered a '4' loop (above)
+        print(item.upper()) 
